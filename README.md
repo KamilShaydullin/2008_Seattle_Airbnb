@@ -5,6 +5,7 @@ Since 2008, guests and hosts have used Airbnb to travel in a more unique, person
 
 Content
 The following Airbnb activity is included in this Seattle dataset:
+
 Listings, including full descriptions and average review score
 Reviews, including unique id for each reviewer and detailed comments
 Calendar, including listing id and the price and availability for that day
